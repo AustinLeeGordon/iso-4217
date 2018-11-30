@@ -1,5 +1,5 @@
 {
-  "name": "iso-4217",
+  "name": "@austinleegordon/iso-4217",
   "version": "1.0.0",
   "description": "Simple module for working with currency codes in the ISO 4217 standard",
   "main": "data.json",
