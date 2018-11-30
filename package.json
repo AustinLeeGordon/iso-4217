@@ -1,0 +1,37 @@
+{
+  "name": "iso-4217",
+  "version": "1.0.0",
+  "description": "Simple module for working with currency codes in the ISO 4217 standard",
+  "main": "data.json",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "fetch-retry": "^2.0.0",
+    "jest": "^23.6.0",
+    "xml2js": "^0.4.19"
+  },
+  "files": [
+    "data.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hutsoninc/generator-hutson"
+  },
+  "author": {
+    "name": "AustinLeeGordon",
+    "email": "gordon.austin2@gmail.com",
+    "url": "https://www.austinleegordon.com"
+  },
+  "keywords": [
+    "iso4217",
+    "iso",
+    "4217",
+    "currency",
+    "currencies",
+    "code",
+    "codes"
+  ],
+  "license": "ISC"
+}
